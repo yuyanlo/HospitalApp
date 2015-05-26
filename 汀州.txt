@@ -35,7 +35,7 @@ setTimeout("window.opener=null;window.close()",600000);//十分鐘後關閉
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
 <input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTU3OTY2MjkxNw9kFgICAw9kFgQCBQ8PFgIeBFRleHQFGTIwMTUvNS8yNiDkuIvljYggMDk6NDE6NDBkZAIJDzwrABECAA8WBB4LXyFEYXRhQm91bmRnHgtfIUl0ZW1Db3VudAIEZAwUKwAFFggeBE5hbWUFBuenkeWIpR4KSXNSZWFkT25seWgeBFR5cGUZKwIeCURhdGFGaWVsZAUG56eR5YilFggfAwUG6Ki66ZaTHwRoHwUZKwIfBgUG6Ki66ZaTFggfAwUM6Yar5bir5aeT5ZCNHwRoHwUZKwIfBgUM6Yar5bir5aeT5ZCNFggfAwUM55yL6Ki654eI6JmfHwRoHwUZKwIfBgUM55yL6Ki654eI6JmfFggfAwUG6Zmi5Y2AHwRoHwUZKwIfBgUG6Zmi5Y2AFgJmD2QWCgIBD2QWCmYPDxYCHwAFCeiFjuiHn+enkWRkAgEPDxYCHwAFAzExMGRkAgIPDxYCHwAFCeS9meemj+S5nWRkAgMPDxYCHwAFAzAyMWRkAgQPDxYCHwAFBuaxgOW3nmRkAgIPZBYKZg8PFgIfAAUM5LiA6Iis5aSW56eRZGQCAQ8PFgIfAAUDMTEyZGQCAg8PFgIfAAUJ6buD5pif6I+vZGQCAw8PFgIfAAUDMDEzZGQCBA8PFgIfAAUG5rGA5beeZGQCAw9kFgpmDw8WAh8ABQnnsr7npZ7np5FkZAIBDw8WAh8ABQMyMDRkZAICDw8WAh8ABQnlvpDnv4rlgaVkZAIDDw8WAh8ABQMwMDlkZAIEDw8WAh8ABQbmsYDlt55kZAIED2QWCmYPDxYCHwAFD+iDg+iFuOiCneiGveenkWRkAgEPDxYCHwAFAzIxN2RkAgIPDxYCHwAFCeael+Wuo+a3rmRkAgMPDxYCHwAFAzAyMWRkAgQPDxYCHwAFBuaxgOW3nmRkAgUPDxYCHgdWaXNpYmxlaGRkGAEFCUdyaWRWaWV3MQ88KwAMAQgCAWRcmR6E7xid8Bv9mv9XbpIMUhnwl/YAKCgrVFGCeH2mzA==" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTU3OTY2MjkxNw9kFgICAw9kFgQCBQ8PFgIeBFRleHQFGTIwMTUvNS8yNiDkuIvljYggMTA6MzM6MTNkZAIJDzwrABECAA8WBB4LXyFEYXRhQm91bmRnHgtfIUl0ZW1Db3VudAIEZAwUKwAFFggeBE5hbWUFBuenkeWIpR4KSXNSZWFkT25seWgeBFR5cGUZKwIeCURhdGFGaWVsZAUG56eR5YilFggfAwUG6Ki66ZaTHwRoHwUZKwIfBgUG6Ki66ZaTFggfAwUM6Yar5bir5aeT5ZCNHwRoHwUZKwIfBgUM6Yar5bir5aeT5ZCNFggfAwUM55yL6Ki654eI6JmfHwRoHwUZKwIfBgUM55yL6Ki654eI6JmfFggfAwUG6Zmi5Y2AHwRoHwUZKwIfBgUG6Zmi5Y2AFgJmD2QWCgIBD2QWCmYPDxYCHwAFCeiFjuiHn+enkWRkAgEPDxYCHwAFAzExMGRkAgIPDxYCHwAFCeS9meemj+S5nWRkAgMPDxYCHwAFAzAyMWRkAgQPDxYCHwAFBuaxgOW3nmRkAgIPZBYKZg8PFgIfAAUM5LiA6Iis5aSW56eRZGQCAQ8PFgIfAAUDMTEyZGQCAg8PFgIfAAUJ6buD5pif6I+vZGQCAw8PFgIfAAUDMDEzZGQCBA8PFgIfAAUG5rGA5beeZGQCAw9kFgpmDw8WAh8ABQnnsr7npZ7np5FkZAIBDw8WAh8ABQMyMDRkZAICDw8WAh8ABQnlvpDnv4rlgaVkZAIDDw8WAh8ABQMwMDlkZAIEDw8WAh8ABQbmsYDlt55kZAIED2QWCmYPDxYCHwAFD+iDg+iFuOiCneiGveenkWRkAgEPDxYCHwAFAzIxN2RkAgIPDxYCHwAFCeael+Wuo+a3rmRkAgMPDxYCHwAFAzAyMWRkAgQPDxYCHwAFBuaxgOW3nmRkAgUPDxYCHgdWaXNpYmxlaGRkGAEFCUdyaWRWaWV3MQ88KwAMAQgCAWQW8m5SHS2/BJcGxasysTsFNZ/vdywrH7r+Y+87rG9r+Q==" />
 </div>
 
 <script type="text/javascript">
@@ -58,7 +58,7 @@ function __doPostBack(eventTarget, eventArgument) {
 <div class="aspNetHidden">
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="195A6106" />
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAK70cCLBwL1wK/eAQKgwK/eAQKrr4WwDfnpKjNBcjbHRfflYHkbS4mUwx5LiDq8w7ZUbcfk9wuf" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAKhxKSaAQL1wK/eAQKgwK/eAQKrr4WwDa44lMmjW29CjJMqelwPFw51X5lVF2xdo2zpiZOMiK9n" />
 </div><table  width="93%" align="center">
     <tr>
         <td>
@@ -72,7 +72,7 @@ function __doPostBack(eventTarget, eventArgument) {
         </tr>
     <tr>
         <td>
-        <span id="Label1">2015/5/26 下午 09:41:40</span>
+        <span id="Label1">2015/5/26 下午 10:33:13</span>
       <span id="rbPOS"><input id="rbPOS_0" type="radio" name="rbPOS" value="B" onclick="javascript:setTimeout(&#39;__doPostBack(\&#39;rbPOS$0\&#39;,\&#39;\&#39;)&#39;, 0)" /><label for="rbPOS_0">內湖</label><input id="rbPOS_1" type="radio" name="rbPOS" value="5" checked="checked" /><label for="rbPOS_1">汀州</label></span>
 
 

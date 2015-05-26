@@ -35,7 +35,7 @@ setTimeout("window.opener=null;window.close()",600000);//十分鐘後關閉
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
 <input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTU3OTY2MjkxNw9kFgICAw9kFgQCBQ8PFgIeBFRleHQFGTIwMTUvNS8yNiDkuIvljYggMTA6MzM6MTJkZAIJDzwrABECAA8WBB4LXyFEYXRhQm91bmRnHgtfIUl0ZW1Db3VudAILZAwUKwAFFggeBE5hbWUFBuenkeWIpR4KSXNSZWFkT25seWgeBFR5cGUZKwIeCURhdGFGaWVsZAUG56eR5YilFggfAwUG6Ki66ZaTHwRoHwUZKwIfBgUG6Ki66ZaTFggfAwUM6Yar5bir5aeT5ZCNHwRoHwUZKwIfBgUM6Yar5bir5aeT5ZCNFggfAwUM55yL6Ki654eI6JmfHwRoHwUZKwIfBgUM55yL6Ki654eI6JmfFggfAwUG6Zmi5Y2AHwRoHwUZKwIfBgUG6Zmi5Y2AFgJmD2QWGAIBD2QWCmYPDxYCHwAFBumqqOenkWRkAgEPDxYCHwAFAzEwMmRkAgIPDxYCHwAFCeeOi+iBluixqmRkAgMPDxYCHwAFAjM3ZGQCBA8PFgIfAAUG5YWn5rmWZGQCAg9kFgpmDw8WAh8ABQzog7johZTlpJbnp5FkZAIBDw8WAh8ABQMxMDlkZAICDw8WAh8ABQnpu4PmiY3ml7pkZAIDDw8WAh8ABQIxM2RkAgQPDxYCHwAFBuWFp+a5lmRkAgMPZBYKZg8PFgIfAAUM5rOM5bC/5aSW56eRZGQCAQ8PFgIfAAUDMTE3ZGQCAg8PFgIfAAUJ576F6I+v5oiQZGQCAw8PFgIfAAUCNDBkZAIEDw8WAh8ABQblhafmuZZkZAIED2QWCmYPDxYCHwAFDOiDuOiFlOWFp+enkWRkAgEPDxYCHwAFAzEyMmRkAgIPDxYCHwAFCeiUoemOruiJr2RkAgMPDxYCHwAFAjQ0ZGQCBA8PFgIfAAUG5YWn5rmWZGQCBQ9kFgpmDw8WAh8ABQ/mlrDpmbPku6PorJ3np5FkZAIBDw8WAh8ABQMxMzVkZAICDw8WAh8ABQnmpYrmnJ3mrL1kZAIDDw8WAh8ABQI0MWRkAgQPDxYCHwAFBuWFp+a5lmRkAgYPZBYKZg8PFgIfAAUJ6IWO6Ief56eRZGQCAQ8PFgIfAAUDMTM5ZGQCAg8PFgIfAAUJ5rSq5rC456WlZGQCAw8PFgIfAAUCMjJkZAIEDw8WAh8ABQblhafmuZZkZAIHD2QWCmYPDxYCHwAFDOS4gOiIrOWkluenkWRkAgEPDxYCHwAFAzE0NGRkAgIPDxYCHwAFCea0quW/l+adsGRkAgMPDxYCHwAFAjE3ZGQCBA8PFgIfAAUG5YWn5rmWZGQCCA9kFgpmDw8WAh8ABQnnsr7npZ7np5FkZAIBDw8WAh8ABQMxNTNkZAICDw8WAh8ABQnlvpDkvbPnpo9kZAIDDw8WAh8ABQIzMmRkAgQPDxYCHwAFBuWFp+a5lmRkAgkPZBYKZg8PFgIfAAUJ5Lit6Yar56eRZGQCAQ8PFgIfAAUDMTYyZGQCAg8PFgIfAAUJ5p6X5pS/5oayZGQCAw8PFgIfAAUCNDVkZAIEDw8WAh8ABQblhafmuZZkZAIKD2QWCmYPDxYCHwAFDOelnue2k+WFp+enkWRkAgEPDxYCHwAFAzE3M2RkAgIPDxYCHwAFCeWui+Wys+WzsGRkAgMPDxYCHwAFAjQ0ZGQCBA8PFgIfAAUG5YWn5rmWZGQCCw9kFgpmDw8WAh8ABQzlsI/lhZLlpJbnp5FkZAIBDw8WAh8ABQMxOTFkZAICDw8WAh8ABQnpg63lo6vpiphkZAIDDw8WAh8ABQIxOGRkAgQPDxYCHwAFBuWFp+a5lmRkAgwPDxYCHgdWaXNpYmxlaGRkGAEFCUdyaWRWaWV3MQ88KwAMAQgCAWQrZtepvPqcWjESxD/6f/co/t6QHSXxpTRsTFF13irlxQ==" />
 </div>
 
 <script type="text/javascript">
@@ -58,7 +58,7 @@ function __doPostBack(eventTarget, eventArgument) {
 <div class="aspNetHidden">
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="195A6106" />
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAK5x5j8BAL1wK/eAQKgwK/eAQKrr4WwDbSIIXKvmekHQFZkYZXcbVqSS708zTnvmiVNXpwrmAUX" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAK2pJ72CgL1wK/eAQKgwK/eAQKrr4WwDSXy8eNlDiiETWMy9xAT9w11O3brUOirxkRSJN85+zs+" />
 </div><table  width="93%" align="center">
     <tr>
         <td>
@@ -72,7 +72,7 @@ function __doPostBack(eventTarget, eventArgument) {
         </tr>
     <tr>
         <td>
-        <span id="Label1">2015/5/26 下午 09:41:35</span>
+        <span id="Label1">2015/5/26 下午 10:33:12</span>
       <span id="rbPOS"><input id="rbPOS_0" type="radio" name="rbPOS" value="B" checked="checked" /><label for="rbPOS_0">內湖</label><input id="rbPOS_1" type="radio" name="rbPOS" value="5" onclick="javascript:setTimeout(&#39;__doPostBack(\&#39;rbPOS$1\&#39;,\&#39;\&#39;)&#39;, 0)" /><label for="rbPOS_1">汀州</label></span>
 
 
@@ -96,7 +96,7 @@ function __doPostBack(eventTarget, eventArgument) {
 		</tr><tr style="color:#003399;background-color:White;">
 			<td>泌尿外科</td><td>117</td><td>羅華成</td><td>40</td><td>內湖</td>
 		</tr><tr style="color:#003399;background-color:White;">
-			<td>胸腔內科</td><td>122</td><td>蔡鎮良</td><td>43</td><td>內湖</td>
+			<td>胸腔內科</td><td>122</td><td>蔡鎮良</td><td>44</td><td>內湖</td>
 		</tr><tr style="color:#003399;background-color:White;">
 			<td>新陳代謝科</td><td>135</td><td>楊朝欽</td><td>41</td><td>內湖</td>
 		</tr><tr style="color:#003399;background-color:White;">
@@ -111,8 +111,6 @@ function __doPostBack(eventTarget, eventArgument) {
 			<td>神經內科</td><td>173</td><td>宋岳峰</td><td>44</td><td>內湖</td>
 		</tr><tr style="color:#003399;background-color:White;">
 			<td>小兒外科</td><td>191</td><td>郭士銘</td><td>18</td><td>內湖</td>
-		</tr><tr style="color:#003399;background-color:White;">
-			<td>耳鼻喉科</td><td>286</td><td>王智弘</td><td>034</td><td>內湖</td>
 		</tr>
 	</table>
 </div>
