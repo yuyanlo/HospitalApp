@@ -1,0 +1,188 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><title>
+	三總看診進度
+</title><meta http-equiv="refresh" content="60" /></meta>
+    <SCRIPT LANGUAGE="JavaScript">
+<!--
+window.onload=function test(){
+}
+setTimeout("window.opener=null;window.close()",600000);//十分鐘後關閉
+//-->
+</SCRIPT 
+</head>
+    
+
+    <style type="text/css">
+        .auto-style1 {
+            text-align: center;
+        }
+        .auto-style2 {
+            height: 13px;
+        }
+    </style>
+
+    
+
+<body>
+
+
+<form method="post" action="PatientNoWeb.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTU3OTY2MjkxNw9kFgICAw9kFgQCBQ8PFgIeBFRleHQFGTIwMTUvNS8yNiDkuIvljYggMDk6NDE6NDBkZAIJDzwrABECAA8WBB4LXyFEYXRhQm91bmRnHgtfIUl0ZW1Db3VudAIEZAwUKwAFFggeBE5hbWUFBuenkeWIpR4KSXNSZWFkT25seWgeBFR5cGUZKwIeCURhdGFGaWVsZAUG56eR5YilFggfAwUG6Ki66ZaTHwRoHwUZKwIfBgUG6Ki66ZaTFggfAwUM6Yar5bir5aeT5ZCNHwRoHwUZKwIfBgUM6Yar5bir5aeT5ZCNFggfAwUM55yL6Ki654eI6JmfHwRoHwUZKwIfBgUM55yL6Ki654eI6JmfFggfAwUG6Zmi5Y2AHwRoHwUZKwIfBgUG6Zmi5Y2AFgJmD2QWCgIBD2QWCmYPDxYCHwAFCeiFjuiHn+enkWRkAgEPDxYCHwAFAzExMGRkAgIPDxYCHwAFCeS9meemj+S5nWRkAgMPDxYCHwAFAzAyMWRkAgQPDxYCHwAFBuaxgOW3nmRkAgIPZBYKZg8PFgIfAAUM5LiA6Iis5aSW56eRZGQCAQ8PFgIfAAUDMTEyZGQCAg8PFgIfAAUJ6buD5pif6I+vZGQCAw8PFgIfAAUDMDEzZGQCBA8PFgIfAAUG5rGA5beeZGQCAw9kFgpmDw8WAh8ABQnnsr7npZ7np5FkZAIBDw8WAh8ABQMyMDRkZAICDw8WAh8ABQnlvpDnv4rlgaVkZAIDDw8WAh8ABQMwMDlkZAIEDw8WAh8ABQbmsYDlt55kZAIED2QWCmYPDxYCHwAFD+iDg+iFuOiCneiGveenkWRkAgEPDxYCHwAFAzIxN2RkAgIPDxYCHwAFCeael+Wuo+a3rmRkAgMPDxYCHwAFAzAyMWRkAgQPDxYCHwAFBuaxgOW3nmRkAgUPDxYCHgdWaXNpYmxlaGRkGAEFCUdyaWRWaWV3MQ88KwAMAQgCAWRcmR6E7xid8Bv9mv9XbpIMUhnwl/YAKCgrVFGCeH2mzA==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="195A6106" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAK70cCLBwL1wK/eAQKgwK/eAQKrr4WwDfnpKjNBcjbHRfflYHkbS4mUwx5LiDq8w7ZUbcfk9wuf" />
+</div><table  width="93%" align="center">
+    <tr>
+        <td>
+            <img src="Images/top01.gif"  ></td>
+        <td>
+    <span id="Label2" style="color:#9966FF;font-family:Tw Cen MT Condensed Extra Bold;font-size:X-Large;">診間醫師看診進度</span>
+        </td>
+        <td  align="right">
+            
+        </td>
+        </tr>
+    <tr>
+        <td>
+        <span id="Label1">2015/5/26 下午 09:41:40</span>
+      <span id="rbPOS"><input id="rbPOS_0" type="radio" name="rbPOS" value="B" onclick="javascript:setTimeout(&#39;__doPostBack(\&#39;rbPOS$0\&#39;,\&#39;\&#39;)&#39;, 0)" /><label for="rbPOS_0">內湖</label><input id="rbPOS_1" type="radio" name="rbPOS" value="5" checked="checked" /><label for="rbPOS_1">汀州</label></span>
+
+
+
+        </td>
+        <td>
+            &nbsp;</td>
+        <td  align="right">
+            &nbsp;</td>
+        </tr>
+</table>
+<div>
+        <div>
+	<table cellspacing="0" cellpadding="4" align="Center" rules="all" id="GridView1" style="background-color:White;border-color:#3366CC;border-width:1px;border-style:None;font-size:X-Large;width:93%;border-collapse:collapse;">
+		<tr style="color:#CCCCFF;background-color:#003399;font-weight:bold;">
+			<th scope="col">科別</th><th scope="col">診間</th><th scope="col">醫師姓名</th><th scope="col">看診燈號</th><th scope="col">院區</th>
+		</tr><tr style="color:#003399;background-color:White;">
+			<td>腎臟科</td><td>110</td><td>余福九</td><td>021</td><td>汀州</td>
+		</tr><tr style="color:#003399;background-color:White;">
+			<td>一般外科</td><td>112</td><td>黃星華</td><td>013</td><td>汀州</td>
+		</tr><tr style="color:#003399;background-color:White;">
+			<td>精神科</td><td>204</td><td>徐翊健</td><td>009</td><td>汀州</td>
+		</tr><tr style="color:#003399;background-color:White;">
+			<td>胃腸肝膽科</td><td>217</td><td>林宣淮</td><td>021</td><td>汀州</td>
+		</tr>
+	</table>
+</div>
+    
+      
+    
+    </div>
+    </form>
+    <table align="center" border="0" cellpadding="0" cellspacing="0" class="ff9900" 
+    width="93%">
+
+
+           <tr>
+
+
+
+            <td bgcolor="#ffffff" valign="top" class="auto-style2">
+                <div align="center">
+                    <img alt="*" border="0" height="12" 
+    src="http://www.tsgh.ndmctsgh.edu.tw/images/ball1.gif" width="12" /></div>
+</td>
+<td bgcolor="#ffffff" class="auto-style2">
+</td>
+<td bgcolor="#ffffff" valign="top" class="auto-style2">               
+    <p align="left" style="MARGIN-TOP: 1pt; MARGIN-BOTTOM: 1pt; WORD-SPACING: 1pt">
+        <font color="#ff0033" size="3">本院自102年09月01日起,內湖及汀州院區上午門診將提前至08:30起開始看診
+</font>
+</p>
+</td>
+</tr>     
+
+
+
+
+
+
+        <tr>
+
+
+
+            <td bgcolor="#ffffff" height="52" valign="top">
+                <div align="center">
+                    <img alt="*" border="0" height="12" 
+                        src="http://www.tsgh.ndmctsgh.edu.tw/images/ball1.gif" width="12" /></div>
+            </td>
+            <td bgcolor="#ffffff">
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+               
+                <p align="left" style="MARGIN-TOP: 1pt; MARGIN-BOTTOM: 1pt; WORD-SPACING: 1pt">
+                    <font color="#ff0033" size="3">請於看診時段內依序號前往就診(每位醫師看診速度不一， 請自行斟酌決定到診時間)<br />
+                    上午門診:08:30~12:00<br />
+                    下午門診:14:00~17:00<br />
+                    夜間門診:18:00~21:00</font><font size="3"> </font>
+                </p>
+            </td>
+        </tr>         
+      
+        <tr>
+            <td bgcolor="#ffffff" height="13" valign="top">
+                <div align="center">
+                    <img alt="*" border="0" height="12" 
+                        src="http://www.tsgh.ndmctsgh.edu.tw/images/ball1.gif" width="12" /></div>
+            </td>
+            <td bgcolor="#ffffff">
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                <div align="left">
+                    <p style="MARGIN-TOP: 1pt; MARGIN-BOTTOM: 1pt; WORD-SPACING: 1pt">
+                        <font color="#ff0033" size="3">
+                        如您為過號者請先敲門報到，診間護理師會依序先排一個現場號，再排一個過號，例如現在看到30號，但有12，18，9過號者，看診序號將為31，12，32，18，33，9，過號先報到者先排序</font></p>
+                </div>
+            </td>
+        </tr>
+    </table>
+
+
+    <div class="auto-style1">
+
+
+三軍總醫院 Copyright (C)2012 <br>
+     
+    禁止任何網際網路服務業者轉錄其網路資訊之內容供人點閱
+
+ 
+    </div>
+
+</body>
+</html>
